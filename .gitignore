@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+libcoap/
+.env
+scripts.sh
+/bin
